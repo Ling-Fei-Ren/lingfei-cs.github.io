@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuan Sun"
-description              : "sunyuan_work@163.com"
-repository               : "sunyuan-cs/sunyuan-cs.github.io"
+title                    : "Lingfei Ren"
+description              : "renlf@swufe.edu.cn"
+repository               : "Ling-Fei-Ren/lingfei-cs.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuan Sun"
+  name             : "Lingfei Ren"
   avatar           : "images/sunyuan.png"
   bio              : 
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN"
-  email            : "sunyuan_work@163.com"
+  googlescholar    : "https://xs.typicalgame.com/citations?user=MVlukGYAAAAJ&hl=en&oi=ao"
+  email            : "renlf@swufe.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : sunyuan-cs
+  github           : Ling-Fei-Ren
   google_plus      :
   keybase          :
   instagram        :
